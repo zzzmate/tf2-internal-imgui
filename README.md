@@ -5,6 +5,7 @@
 - Changed files: Entry.h, Entry.cpp.
 
 # Setup
-1. Open Visual Studio.
-2. Set the project to Release | x86.
-3. Build and inject to the game.
+1. Add "hl2_src" folder into "SDK" folder.  
+2. Open Visual Studio.
+3. Set the project to Release | x86.
+4. Build and inject to the game.
