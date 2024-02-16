@@ -10,4 +10,4 @@
 3. Set the project to Release | x86.
 4. Build and inject to the game.
 
-[url=https://www.mediafire.com/file/04atwiw7ll2c2pu/hl2_src.rar/file]download hl2_src[/url]
+[download hl2_src]([https://www.mediafire.com/file/04atwiw7ll2c2pu/hl2_src.rar/file])
